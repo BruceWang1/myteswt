@@ -1,0 +1,29 @@
+[33mcommit 514677fe6af0f6f664c3bdf63a1dca53ad48974f[m
+Author: Bruce Wang <bruce.wang@software.dell.com>
+Date:   Tue Aug 19 16:24:52 2014 +0800
+
+    master-commit 4
+
+[33mcommit 94129e09adf30f86ff49076c9b13992b5ae659ed[m
+Author: Bruce Wang <bruce.wang@software.dell.com>
+Date:   Tue Aug 19 15:43:20 2014 +0800
+
+    comment3
+
+[33mcommit 01c1da74f7db09066514d1f2b9944c504f115a7a[m
+Author: Bruce Wang <bruce.wang@software.dell.com>
+Date:   Tue Aug 19 15:43:00 2014 +0800
+
+    comment2
+
+[33mcommit ed01c729c9055e4ede441657f45d2da06855b674[m
+Author: Bruce Wang <bruce.wang@software.dell.com>
+Date:   Tue Aug 19 15:42:19 2014 +0800
+
+    comment1
+
+[33mcommit 54e467318edb94e1350e3b8c57959143a727d044[m
+Author: Bruce Wang <bruce.wang@software.dell.com>
+Date:   Tue Aug 19 15:41:25 2014 +0800
+
+    :octocat: Added .gitattributes

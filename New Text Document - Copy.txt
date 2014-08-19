@@ -1,0 +1,5 @@
+To demonstrate this you'd want to...
+(1) Take a screen shot of an Performance Health page (for user X) on TEST;
+(2) Take a screen shot of the same Performance Health page (for user X) on TEST2 (which is running the code from your branch);
+(3) Demonstrate that the PH results from TEST and from TEST2 appear the same - even though TEST was fetched from SQL Azure and TEST2 was fetched from the blob-store;
+(4) Repeat steps (1)-(3) for a PH result that is not the most recent PH result (of an instance).
